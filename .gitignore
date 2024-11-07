@@ -1,0 +1,4 @@
+data/
+parameters/model_state_dict.pt
+.idea/
+__pycache__/
